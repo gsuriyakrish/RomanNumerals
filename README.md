@@ -1,7 +1,7 @@
 # Stylight
 
 #### Idea of the program:
-  Convert the Arabic Numbers into corresponding Roman Numerals.
+  Convert the Arabic Numbers into corresponding Roman Numerals. For more details you can check [here](http://en.wikipedia.org/wiki/Roman_numerals#Reading_Roman_numerals)
   
   For example :
   
